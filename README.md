@@ -37,6 +37,7 @@ coding!
 - Kevin Llanos #1: [GitHub](https://github.com/KevinLlano) / [LinkedIn](https://linkedin.com/in/kevinllanos7/)
 - Matthew Neie: [GitHub](https://github.com/MatthewNeie) / [LinkedIn](https://linkedin.com/in/matthew-neie)
 - Jazz Bullecer: [GitHub](https://github.com/jazxbx)
+- Thais Inatomi : [GitHub](https://github.com/thaisaya) / [LinkedIn](https://www.linkedin.com/in/thaisaya/)
 
    ...
 - Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
