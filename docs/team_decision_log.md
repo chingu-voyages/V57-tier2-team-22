@@ -11,9 +11,9 @@ you like the best.
 | No. | Question/Option | Kevin | Jazz | Matthew | Viral | Thais | Teammate name |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Team meeting schedule | | | | | | |
-|   |	- Sprint Planning Sunday@9:00 a.m. CST | | | | | | |
+|   |	- Sprint Planning Monday - 6PM EST/5PM Chicago/ 7PM Brazil| | | | | | |
 |   |	- Knowledge Xfer as needed | | | | | | |
-|   |	- Working Session Thursday@4:00 p.m. CST | | | | | | |
+|   |	- Working Session | | | | | | |
 | 2	| Project Backlog Tool | | | | | | |
 |   |	- Notion | | | | | | |
 |   |	- Jira |x |x |x |x |x | |
