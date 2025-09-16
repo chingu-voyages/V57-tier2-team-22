@@ -1,0 +1,181 @@
+[
+  {
+    "number": 5189,
+    "title": "5158",
+    "url": "https://github.com/kunjgit/GameZone/pull/5189",
+    "state": "closed",
+    "author": {
+      "username": "tharun977",
+      "avatar": "https://avatars.githubusercontent.com/u/116884536?v=4"
+    },
+    "createdAt": "2025-03-22T13:00:04Z",
+    "reviewers": [
+      {
+        "username": "jazxbx",
+        "avatar": "https://avatars.githubusercontent.com/u/106460341?v=4"
+      },
+      {
+        "username": "tharun977",
+        "avatar": "https://avatars.githubusercontent.com/u/116884536?v=4"
+      }
+    ],
+    "lastActionDate": "2025-03-22T13:00:14Z"
+  },
+  {
+    "number": 5187,
+    "title": "Added Memory Game",
+    "url": "https://github.com/kunjgit/GameZone/pull/5187",
+    "state": "open",
+    "author": {
+      "username": "200habib",
+      "avatar": "https://avatars.githubusercontent.com/u/155991413?v=4"
+    },
+    "createdAt": "2025-02-10T19:23:40Z",
+    "reviewers": [],
+    "lastActionDate": "2025-02-10T19:23:57Z"
+  },
+  {
+    "number": 5185,
+    "title": "Pac-Man-Game finished",
+    "url": "https://github.com/kunjgit/GameZone/pull/5185",
+    "state": "open",
+    "author": {
+      "username": "aamira0",
+      "avatar": "https://avatars.githubusercontent.com/u/150680980?v=4"
+    },
+    "createdAt": "2024-12-30T16:43:05Z",
+    "reviewers": [],
+    "lastActionDate": "2024-12-30T16:43:19Z"
+  },
+  {
+    "number": 5184,
+    "title": "Whiskers Toy Quest",
+    "url": "https://github.com/kunjgit/GameZone/pull/5184",
+    "state": "open",
+    "author": {
+      "username": "wenstef",
+      "avatar": "https://avatars.githubusercontent.com/u/151529181?v=4"
+    },
+    "createdAt": "2024-12-30T11:48:32Z",
+    "reviewers": [
+      {
+        "username": "tharun977",
+        "avatar": "https://avatars.githubusercontent.com/u/116884536?v=4"
+      },
+      {
+        "username": "Aditijainnn",
+        "avatar": "https://avatars.githubusercontent.com/u/144632601?v=4"
+      }
+    ],
+    "lastActionDate": "2024-12-30T11:48:44Z"
+  },
+  {
+    "number": 5181,
+    "title": "Update gamesData.json",
+    "url": "https://github.com/kunjgit/GameZone/pull/5181",
+    "state": "closed",
+    "author": {
+      "username": "sarthak359",
+      "avatar": "https://avatars.githubusercontent.com/u/113001148?v=4"
+    },
+    "createdAt": "2024-10-07T16:40:56Z",
+    "reviewers": [],
+    "lastActionDate": "2024-10-07T16:41:08Z"
+  },
+  {
+    "number": 5180,
+    "title": "2Truth&1lie game",
+    "url": "https://github.com/kunjgit/GameZone/pull/5180",
+    "state": "closed",
+    "author": {
+      "username": "sarthak359",
+      "avatar": "https://avatars.githubusercontent.com/u/113001148?v=4"
+    },
+    "createdAt": "2024-10-07T16:33:39Z",
+    "reviewers": [],
+    "lastActionDate": "2025-02-21T11:10:03Z"
+  },
+  {
+    "number": 5177,
+    "title": "Added Mines game",
+    "url": "https://github.com/kunjgit/GameZone/pull/5177",
+    "state": "open",
+    "author": {
+      "username": "TarunDev1478",
+      "avatar": "https://avatars.githubusercontent.com/u/148214595?v=4"
+    },
+    "createdAt": "2024-09-23T18:11:55Z",
+    "reviewers": [],
+    "lastActionDate": "2024-09-23T18:12:10Z"
+  },
+  {
+    "number": 5171,
+    "title": "fixes of readme",
+    "url": "https://github.com/kunjgit/GameZone/pull/5171",
+    "state": "closed",
+    "author": {
+      "username": "priyashuu",
+      "avatar": "https://avatars.githubusercontent.com/u/150767072?v=4"
+    },
+    "createdAt": "2024-08-17T06:58:18Z",
+    "reviewers": [
+      {
+        "username": "tharun977",
+        "avatar": "https://avatars.githubusercontent.com/u/116884536?v=4"
+      }
+    ],
+    "lastActionDate": "2024-10-08T16:14:19Z"
+  },
+  {
+    "number": 5169,
+    "title": "Medieval RPG",
+    "url": "https://github.com/kunjgit/GameZone/pull/5169",
+    "state": "open",
+    "author": {
+      "username": "Aditijainnn",
+      "avatar": "https://avatars.githubusercontent.com/u/144632601?v=4"
+    },
+    "createdAt": "2024-08-10T13:25:38Z",
+    "reviewers": [],
+    "lastActionDate": "2024-08-10T13:32:16Z"
+  },
+  {
+    "number": 5167,
+    "title": "Closes #5061",
+    "url": "https://github.com/kunjgit/GameZone/pull/5167",
+    "state": "closed",
+    "author": {
+      "username": "its-kritika",
+      "avatar": "https://avatars.githubusercontent.com/u/144522556?v=4"
+    },
+    "createdAt": "2024-08-10T12:01:05Z",
+    "reviewers": [],
+    "lastActionDate": "2024-08-10T12:01:36Z"
+  },
+  {
+    "number": 5166,
+    "title": "Added new game (Snake game)",
+    "url": "https://github.com/kunjgit/GameZone/pull/5166",
+    "state": "closed",
+    "author": {
+      "username": "rugved0102",
+      "avatar": "https://avatars.githubusercontent.com/u/122914094?v=4"
+    },
+    "createdAt": "2024-08-10T11:42:56Z",
+    "reviewers": [],
+    "lastActionDate": "2024-08-10T11:43:28Z"
+  },
+  {
+    "number": 5164,
+    "title": "Added galaxy shoot",
+    "url": "https://github.com/kunjgit/GameZone/pull/5164",
+    "state": "closed",
+    "author": {
+      "username": "Aditijainnn",
+      "avatar": "https://avatars.githubusercontent.com/u/144632601?v=4"
+    },
+    "createdAt": "2024-08-10T11:23:59Z",
+    "reviewers": [],
+    "lastActionDate": "2024-08-10T12:59:20Z"
+  }
+]
