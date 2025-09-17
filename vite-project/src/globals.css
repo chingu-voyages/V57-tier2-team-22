@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --font-display: 'Inter', sans-serif;
+
+  /* Brand/ Primary */
+  --color-green: #174d4d; /* dark green (used in header, active tab) */
+  --color-green-secondary: #094844; /* dark variation for hover */
+
+  /* Backgrounds */
+  --color-bg-main: #f5f5f4; /* grey background */
+  --color-white: #ffff; /* white bg for cards */
+
+  /* Text */
+  --color-black: #1e1e1e; /* almost black */
+  --color-grey: #747474; /* gray text */
+
+  /* Borders */
+  --color-grey-secondary: #e5e7eb; /* light gray border */
+
+  /* States */
+  --color-error: #dc2626; /* red error */
+}
