@@ -1,14 +1,13 @@
-// import './App.css';
 import './globals.css';
 import DesignSystem from './pages/DesignSystem';
-import HomePage from './pages/HomePage';
+import PRDashboard from './components/Dashboard';
 import PRsPage from './pages/PRsPage';
 
 function App() {
   return (
     <>
-      {/* <HomePage /> */}
-      {/* <DesignSystem /> */}
+      <DesignSystem />
+      <PRDashboard />
       <div className='h-12 md:h-16'></div>
       <PRsPage />
     </>
@@ -16,3 +15,4 @@ function App() {
 }
 
 export default App;
+
