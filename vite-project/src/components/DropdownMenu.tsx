@@ -49,7 +49,11 @@ export default function DropdownMenu({
             options.map((option) => (
               <li
                 key={option}
-                className='px-4 py-2 cursor-pointer hover:bg-green hover:text-white hover:rounded'
+                className='px-4 py-2 cursor-pointer 
+                m-1
+                hover:bg-green hover:text-white hover:rounded
+
+                '
                 onClick={() => handleSelect(option)}
               >
                 {option}
