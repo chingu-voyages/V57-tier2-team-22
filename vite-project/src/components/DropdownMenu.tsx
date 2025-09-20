@@ -1,6 +1,5 @@
 import { useState, useRef } from 'react';
 import Button from './Button';
-import { MdOutlineKeyboardArrowDown } from 'react-icons/md';
 import { UseClickOutside } from '../hooks/UseClickOutside';
 
 interface DropdownMenuProps {
@@ -30,7 +29,6 @@ export default function DropdownMenu({
     <div ref={ref} className='relative inline-block'>
       <Button variant='tertiary' onClick={() => setIsOpen((prev) => !prev)}>
         {selected ? `Filter ${label}: ${selected}` : `Filter ${label}`}
-        <MdOutlineKeyboardArrowDown />
       </Button>
 
       <div

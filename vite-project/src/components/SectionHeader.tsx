@@ -1,6 +1,4 @@
 import Button from './Button';
-import { HiOutlineRefresh } from 'react-icons/hi';
-import { MdOutlineSaveAlt } from 'react-icons/md';
 import Filters from './Filters';
 
 // TODO: create toast component
@@ -17,7 +15,6 @@ export default function SectionHeader() {
               alert('saved');
             }}
           >
-            <MdOutlineSaveAlt />
             SAVE JSON
           </Button>
         </div>
@@ -28,7 +25,6 @@ export default function SectionHeader() {
               alert('refreshed');
             }}
           >
-            <HiOutlineRefresh />
             refresh
           </Button>
         </div>
