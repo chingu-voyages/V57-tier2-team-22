@@ -1,16 +1,18 @@
 import './globals.css';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import HomePage from './pages/HomePage';
 import DesignSystem from './pages/DesignSystem';
-import PRDashboard from './components/Dashboard';
 import PRsPage from './pages/PRsPage';
 
 function App() {
   return (
-    <>
-      <DesignSystem />
-      <PRDashboard />
-      <div className='h-12 md:h-16'></div>
-      <PRsPage />
-    </>
+    <Router>
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/design-system" element={<DesignSystem />} />
+        <Route path="/prs" element={<PRsPage />} />
+      </Routes>
+    </Router>
   );
 }
 
