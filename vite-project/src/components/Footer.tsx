@@ -1,32 +1,50 @@
 import React from 'react'
 
 const Footer: React.FC = () => (
-  <footer className="bg-white border-t">
-    <div className="max-w-6xl mx-auto px-4 py-8 grid md:grid-cols-4 gap-8 items-start">
+  <footer className="bg-white border-t ">
+    <div className="max-w-6xl mx-auto px-4 py-6 grid md:grid-cols-4 gap-6 items-start">
       <div>
         <a href="#" className="inline-flex items-center gap-2 font-semibold text-black">
-          <span className="size-8 rounded bg-black text-white grid place-items-center text-xs font-bold">PR</span>
+          <span className="w-8 h-8 rounded bg-black text-white grid place-items-center text-xs font-bold">PR</span>
           github repo ↗
         </a>
       </div>
       <div>
-        <h4 className="font-semibold mb-2 text-sm text-gray-700">DEVELOPERS</h4>
-        <ul className="space-y-1 text-sm">
-          <li>Jazz <a className="underline text-orange-500" href="#">linkedin</a> <a className="underline text-orange-500" href="#">github</a></li>
-          <li>Kevin <a className="underline text-orange-500" href="#">linkedin</a> <a className="underline text-orange-500" href="#">github</a></li>
-          <li>Matthew <a className="underline text-orange-500" href="#">linkedin</a> <a className="underline text-orange-500" href="#">github</a></li>
+        <h4 className="font-semibold mb-2 text-sm  text-gray-700">DEVELOPERS</h4>
+        <ul className="space-y-3 text-sm ">
+          <li className="flex items-center gap-3">
+            <span className="font-semibold min-w-[6rem] flex-none block">Jazz</span>
+            <a className="text-xs py-1 px-2 rounded-full bg-gray-100 text-gray-700 hover:bg-orange-50 hover:text-orange-500" href="#">LinkedIn</a>
+            <a className="text-xs py-1 px-2 rounded-full bg-gray-100 text-gray-700 hover:bg-orange-50 hover:text-orange-500" href="#">GitHub</a>
+          </li>
+          <li className="flex items-center gap-3">
+            <span className="font-semibold min-w-[6rem] flex-none block">Kevin</span>
+            <a className="text-xs py-1 px-2 rounded-full bg-gray-100 text-gray-700 hover:bg-orange-50 hover:text-orange-500" href="#">LinkedIn</a>
+            <a className="text-xs py-1 px-2 rounded-full bg-gray-100 text-gray-700 hover:bg-orange-50 hover:text-orange-500" href="#">GitHub</a>
+          </li>
+          <li className="flex items-center gap-3">
+            <span className="font-semibold min-w-[6rem] flex-none block">Matthew</span>
+            <a className="text-xs py-1 px-2 rounded-full bg-gray-100 text-gray-700 hover:bg-orange-50 hover:text-orange-500" href="#">LinkedIn</a>
+            <a className="text-xs py-1 px-2 rounded-full bg-gray-100 text-gray-700 hover:bg-orange-50 hover:text-orange-500" href="#">GitHub</a>
+          </li>
         </ul>
       </div>
       <div>
         <h4 className="font-semibold mb-2 text-sm text-gray-700">SCRUM MASTER</h4>
-        <ul className="space-y-1 text-sm">
-          <li>Thaís <a className="underline text-orange-500" href="#">linkedin</a></li>
+        <ul className="space-y-3 text-sm">
+          <li className="flex items-center gap-3">
+            <span className="font-semibold min-w-[6rem] flex-none block">Thaís</span>
+            <a className="text-xs py-1 px-2 rounded-full bg-gray-100 text-gray-700 hover:bg-orange-50 hover:text-orange-500" href="#">LinkedIn</a>
+          </li>
         </ul>
       </div>
       <div>
         <h4 className="font-semibold mb-2 text-sm text-gray-700">Product Owner</h4>
-        <ul className="space-y-1 text-sm">
-          <li>Viral <a className="underline text-orange-500" href="#">linkedin</a></li>
+        <ul className="space-y-3 text-sm">
+          <li className="flex items-center gap-3">
+            <span className="font-semibold min-w-[6rem] flex-none block">Viral</span>
+            <a className="text-xs py-1 px-2 rounded-full bg-gray-100 text-gray-700 hover:bg-orange-50 hover:text-orange-500" href="#">LinkedIn</a>
+          </li>
         </ul>
       </div>
     </div>
