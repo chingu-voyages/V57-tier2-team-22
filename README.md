@@ -1,43 +1,19 @@
-# voyage-tasks-edit
+# PR Tracker
 
-Your project's `readme` is as important to success as your code. For 
-this reason you should put as much care into its creation and maintenance
-as you would any other component of the application.
+<img width="2147" height="1040" alt="image" src="https://github.com/user-attachments/assets/684c1289-cef0-4e33-8dee-05c54eacc0dc" />
 
-If you are unsure of what should go into the `readme` let this article,
-written by an experienced Chingu, be your starting point - 
-[Keys to a well written README](https://tinyurl.com/yk3wubft).
+# Overview
 
-And before we go there's "one more thing"! Once you decide what to include
-in your `readme` feel free to replace the text we've provided here.
+# Features
 
-> Own it & Make it your Own!
+# Tech Stack
 
-## Team Documents
+# Getting Started
 
-You may find these helpful as you work together to organize your project.
+# Our Team
 
-- [Team Project Ideas](./docs/team_project_ideas.md)
-- [Team Decision Log](./docs/team_decision_log.md)
-
-Meeting Agenda templates (located in the `/docs` directory in this repo):
-
-- Meeting - Voyage Kickoff --> ./docs/meeting-voyage_kickoff.docx
-- Meeting - App Vision & Feature Planning --> ./docs/meeting-vision_and_feature_planning.docx
-- Meeting - Sprint Retrospective, Review, and Planning --> ./docs/meeting-sprint_retrospective_review_and_planning.docx
-- Meeting - Sprint Open Topic Session --> ./docs/meeting-sprint_open_topic_session.docx
-
-## Our Team
-
-Everyone on your team should add their name along with a link to their GitHub
-& optionally their LinkedIn profiles below. Do this in Sprint #1 to validate
-your repo access and to practice PR'ing with your team *before* you start
-coding!
-
-- Kevin Llanos: [GitHub](https://github.com/KevinLlano) / [LinkedIn](https://linkedin.com/in/kevinllanos7/)
-- Matthew Neie: [GitHub](https://github.com/MatthewNeie) / [LinkedIn](https://linkedin.com/in/matthew-neie)
-- Jazz Bullecer: [GitHub](https://github.com/jazxbx)
-- Thais Inatomi : [GitHub](https://github.com/thaisaya) / [LinkedIn](https://www.linkedin.com/in/thaisaya/)
-
-   ...
-- Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
+- Kevin Llanos (Developer): [GitHub](https://github.com/KevinLlano) / [LinkedIn](https://linkedin.com/in/kevinllanos7/)
+- Matthew Neie (Developer): [GitHub](https://github.com/MatthewNeie) / [LinkedIn](https://linkedin.com/in/matthew-neie)
+- Jazz Bullecer (Developer): [GitHub](https://github.com/jazxbx)
+- Thais Inatomi (Scrum Master): [GitHub](https://github.com/thaisaya) / [LinkedIn](https://www.linkedin.com/in/thaisaya/)
+- Viral Barot (Product Owner): [LinkedIn](https://www.linkedin.com/in/viral-barot-mba/)
