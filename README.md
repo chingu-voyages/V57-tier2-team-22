@@ -83,3 +83,5 @@ http://localhost:5173/
 - Jazz Bullecer (Developer): [GitHub](https://github.com/jazxbx)
 - Thais Inatomi (Scrum Master): [GitHub](https://github.com/thaisaya) / [LinkedIn](https://www.linkedin.com/in/thaisaya/)
 - Viral Barot (Product Owner): [LinkedIn](https://www.linkedin.com/in/viral-barot-mba/)
+
+*Project requirements and team initiated by Chingu*
