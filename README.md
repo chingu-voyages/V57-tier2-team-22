@@ -36,15 +36,15 @@ PR Tracker is a user friendly application that allows developers and tech users 
 
 <img width="40" height="41" alt="image" src="https://github.com/user-attachments/assets/17a0d6ec-da91-4195-873d-cfc253c27029" /> Render
 
-## Run Project Locally
+## Getting Started
 
-**Clone the project**
+Clone the project
 
 ```bash
 git clone https://github.com/chingu-voyages/V57-tier2-team-22
 ```
 
-**Navigate to the project folder**
+Navigate to the project folder
 
 ```bash
 cd V57-tier2-team-22
@@ -54,19 +54,19 @@ cd V57-tier2-team-22
 cd vite-project
 ```
 
-**Install dependencies**
+Install dependencies
 
 ```bash
 npm install
 ```
 
-**Run the development server**
+Run the development server
 
 ```bash
 npm run dev
 ```
 
-**Open browser**
+Open browser
 
 ```bash
 http://localhost:5173/
