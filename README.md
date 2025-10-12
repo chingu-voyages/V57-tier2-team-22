@@ -18,7 +18,7 @@ PR Tracker is a user friendly application that allows developers and tech users 
 
 **GitHub Authorization:**
 
-**Error Handling:** Visitors are promtly notified when a search has no results, the input field is lacking information, or if the try a visit a page that doesn't exist.
+**Error Handling:** Visitors are promtly notified when a search has no results, the input field is lacking information, or if a page they attepmt to visit doesn't exist.
 
 still working on this..
 
