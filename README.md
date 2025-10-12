@@ -76,10 +76,6 @@ Open browser
 http://localhost:5173/
 ```
 
-## Deployed
-
-[https://v57-tier2-team-22.vercel.app/](https://v57-tier2-team-22.vercel.app/)
-
 ## Our Team
 
 - Kevin Llanos (Developer): [GitHub](https://github.com/KevinLlano) / [LinkedIn](https://linkedin.com/in/kevinllanos7/)
