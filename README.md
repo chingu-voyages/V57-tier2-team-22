@@ -38,6 +38,42 @@ PR Tracker is a user friendly application that allows developers and tech users 
 
 ## Getting Started
 
+If you would like to run the project locally do the following:
+
+Clone the project
+
+```bash
+git clone https://github.com/chingu-voyages/V57-tier2-team-22
+```
+
+Navigate to the project folder
+
+```bash
+cd V57-tier2-team-22
+```
+
+```bash
+cd vite-project
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+Open browser
+
+```bash
+http://localhost:5173/
+```
+
 ## Deployed
 
 [https://v57-tier2-team-22.vercel.app/](https://v57-tier2-team-22.vercel.app/)
