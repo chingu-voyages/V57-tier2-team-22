@@ -84,5 +84,4 @@ http://localhost:5173/
 - Thais Inatomi (Scrum Master): [GitHub](https://github.com/thaisaya) / [LinkedIn](https://www.linkedin.com/in/thaisaya/)
 - Viral Barot (Product Owner): [LinkedIn](https://www.linkedin.com/in/viral-barot-mba/)
 
-*Project requirements and team initiated by <img width="30" height="32" alt="image" src="https://github.com/user-attachments/assets/88131590-2226-4a45-92f7-4e89e4a85f48" />
-[Chingu](https://www.chingu.io/)*
+*Project requirements and team initiated by [Chingu](https://www.chingu.io/)*
