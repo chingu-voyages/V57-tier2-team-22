@@ -2,15 +2,15 @@
 
 <img width="2147" height="1040" alt="image" src="https://github.com/user-attachments/assets/684c1289-cef0-4e33-8dee-05c54eacc0dc" />
 
-# Overview
+## Overview
 
-# Features
+## Features
 
-# Tech Stack
+## Tech Stack
 
-# Getting Started
+## Getting Started
 
-# Our Team
+## Our Team
 
 - Kevin Llanos (Developer): [GitHub](https://github.com/KevinLlano) / [LinkedIn](https://linkedin.com/in/kevinllanos7/)
 - Matthew Neie (Developer): [GitHub](https://github.com/MatthewNeie) / [LinkedIn](https://linkedin.com/in/matthew-neie)
