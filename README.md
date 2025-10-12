@@ -38,7 +38,7 @@ PR Tracker is a user friendly application that allows developers and tech users 
 
 ## Getting Started
 
-If you would like to run the project locally do the following:
+**Run the project locally:**
 
 Clone the project
 
