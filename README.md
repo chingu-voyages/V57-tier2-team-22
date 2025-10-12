@@ -24,6 +24,10 @@ PR Tracker is a user friendly application that allows developers and tech users 
 
 ## Getting Started
 
+## Deployed
+
+[https://v57-tier2-team-22.vercel.app/](https://v57-tier2-team-22.vercel.app/)
+
 ## Our Team
 
 - Kevin Llanos (Developer): [GitHub](https://github.com/KevinLlano) / [LinkedIn](https://linkedin.com/in/kevinllanos7/)
