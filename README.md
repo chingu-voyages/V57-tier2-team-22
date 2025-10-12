@@ -8,6 +8,22 @@ PR Tracker is a user friendly application that allows developers and tech users 
 
 ## Features
 
+**Landing Page:** A visually appealing landing page that describes the benefits and features of PR Tracker, search input to get started, and the creators of the application.
+
+**GitHub API:** PR tracker is able to get pull requests from a GitHub repository via GitHub API and display them neatly in an interactive dashboard.
+
+**Interactive Dashboard:** Pull requests are organized in a dashboard that presents the id, title, author, date created, reviewers, and status of pull requests. Users are able to filter results by author and reviewers. Users may also sort the data numerically, alphabetically, and by date when clicking on a table header. Options above the dashboard allow users to view only open or closed pull requests.
+
+**Save as JSON:** Users may save pull request data in JSON format so they may use it locally without needing a connection to GitHub API.
+
+**GitHub Authorization:**
+
+**Error Handling:** Visitors are promtly notified when a search has no results, the input field is lacking information, or if the try a visit a page that doesn't exist.
+
+still working on this..
+
+
+
 ## Tech Stack
 
 <img width="40" height="34" alt="image" src="https://github.com/user-attachments/assets/c10b710a-e807-4ea9-b94e-cd9140356b2a" /> React
