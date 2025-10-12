@@ -4,9 +4,13 @@
 
 ## Overview
 
+PR Tracker is a user friendly application that allows developers and tech users to easily view the progress of pull requests in a GitHub repository. Visitors are prompt to type the owner/repository of an existing repository and after searching, see the resulting pull requests in a neat and organized dashboard. Users are able to view key features such as title, author, date created, reviewers, and status of open and closed PRs. Users are notified if information they search is not found or attempt to visit an unknown page.
+
 ## Features
 
 ## Tech Stack
+
+<img width="2147" height="1040" alt="image" src="https://commons.wikimedia.org/wiki/File:React-icon.svg" />
 
 ## Getting Started
 
