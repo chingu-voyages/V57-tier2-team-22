@@ -12,17 +12,15 @@ PR Tracker is a user friendly application that allows developers and tech users 
 
 **GitHub API:** PR tracker is able to get pull requests from a GitHub repository via GitHub API and display them neatly in an interactive dashboard.
 
-**Interactive Dashboard:** Pull requests are organized in a dashboard that presents the id, title, author, date created, reviewers, and status of pull requests. Users are able to filter results by author and reviewers. Users may also sort the data numerically, alphabetically, and by date when clicking on a table header. Options above the dashboard allow users to view only open or closed pull requests.
+**Interactive Dashboard:** Pull requests are organized in a dashboard that presents the id, title, author, date created, reviewers, and status of pull requests. Users are able to filter results by author and reviewers. Users may also sort the data numerically, alphabetically, and by date when clicking on a table header. Options above the dashboard allow users to view only open or closed pull requests. Filters can be cleared, and the data can be refreshed.
 
 **Save as JSON:** Users may save pull request data in JSON format so they may use it locally without needing a connection to GitHub API.
 
-**GitHub Authorization:**
+**Export CSV:** Users may export pull request data to Excel. Users can save the data to their own computer and can use the data with Excel for more organization options.
+
+**GitHub Authorization:** Users have the ability to get authorized from GitHub so they can view repositories associated with their GitHub account. The user will be directed to GitHub to sign-in and become authorized. The user will then be redirected back to PR Tracker with identifying information displayed in the header and a list of repositories below.
 
 **Error Handling:** Visitors are promtly notified when a search has no results, the input field is lacking information, or if a page they attempt to visit doesn't exist.
-
-still working on this..
-
-
 
 ## Tech Stack
 
@@ -51,3 +49,5 @@ still working on this..
 - Jazz Bullecer (Developer): [GitHub](https://github.com/jazxbx)
 - Thais Inatomi (Scrum Master): [GitHub](https://github.com/thaisaya) / [LinkedIn](https://www.linkedin.com/in/thaisaya/)
 - Viral Barot (Product Owner): [LinkedIn](https://www.linkedin.com/in/viral-barot-mba/)
+
+  **I will remove this comment when I am finished** -Matt
