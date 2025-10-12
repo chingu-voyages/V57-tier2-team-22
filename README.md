@@ -20,7 +20,7 @@ PR Tracker is a user friendly application that allows developers and tech users 
 
 **Save as JSON:** Users may save pull request data in JSON format so they may use it locally without needing a connection to GitHub API.
 
-**Export CSV:** Users may export pull request data to Excel. Users can save the data to their own computer and can use the data with Excel for more organization options.
+**Export CSV:** Users may export pull request data to Excel. Users can save the data to their own computer and can use the data with Excel's standardized options.
 
 **GitHub Authorization:** Users have the ability to get authorized from GitHub and can view their GitHub repositories. The user will be directed to GitHub to sign-in and become authorized. The user will then be redirected back to PR Tracker with identifying information displayed in the header and a list of repositories below.
 
