@@ -10,7 +10,8 @@ PR Tracker is a user friendly application that allows developers and tech users 
 
 ## Tech Stack
 
-<img width="2147" height="1040" alt="image" src="https://commons.wikimedia.org/wiki/File:React-icon.svg" />
+<img width="528" height="459" alt="image" src="https://github.com/user-attachments/assets/c10b710a-e807-4ea9-b94e-cd9140356b2a" />
+
 
 ## Getting Started
 
