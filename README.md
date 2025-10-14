@@ -79,6 +79,11 @@ CLIENT_SECRET=your_github_client_secret
 PORT=3000
 ```
 
+📝 Note:
+If you’re using the deployed Render backend, you can skip this step —
+the environment variables are already configured in Render.
+You only need this file if you’re running the backend locally.
+
 **Frontend Environment (vite-project/.env)**
 Create a .env file inside the vite-project folder
 
