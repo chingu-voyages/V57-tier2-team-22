@@ -64,6 +64,31 @@ Install dependencies
 npm install
 ```
 
+**Environment Setup**
+This project uses two .env files — one for the server (backend) and one for the frontend (Vite app).
+
+Server Environment (server/.env)
+
+Create a .env file inside the server folder:
+
+Add the following variables (from your GitHub Developer Settings → OAuth Apps → Your App):
+
+```env
+CLIENT_ID=your_github_client_id
+CLIENT_SECRET=your_github_client_secret
+PORT=3000
+```
+
+**Frontend Environment (vite-project/.env)**
+Create a .env file inside the vite-project folder
+
+All frontend variables must start with VITE_, so Vite can expose them to your app.
+Add the following variables (your GitHub Personal Access Token)
+
+```env
+VITE_GITHUB_TOKEN=your_github_token
+```
+
 Run the development server
 
 ```bash
@@ -80,7 +105,7 @@ http://localhost:5173/
 
 - Kevin Llanos (Developer): [GitHub](https://github.com/KevinLlano) / [LinkedIn](https://linkedin.com/in/kevinllanos7/)
 - Matthew Neie (Developer): [GitHub](https://github.com/MatthewNeie) / [LinkedIn](https://linkedin.com/in/matthew-neie)
-- Jazz Bullecer (Developer): [GitHub](https://github.com/jazxbx)
+- Jazz Bullecer (Developer): [GitHub](https://github.com/jazxbx) / [LinkedIn](https://www.linkedin.com/in/jazz-bullecer-89780928a)
 - Thais Inatomi (Scrum Master): [GitHub](https://github.com/thaisaya) / [LinkedIn](https://www.linkedin.com/in/thaisaya/)
 - Viral Barot (Product Owner): [LinkedIn](https://www.linkedin.com/in/viral-barot-mba/)
 
